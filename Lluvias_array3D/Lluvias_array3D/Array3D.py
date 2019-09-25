@@ -55,19 +55,3 @@ class Array3D:
                 anio_lista.append(mes_lista)
             data.append(anio_lista)
         print(data)
-
-
-"""
-def main():
-    arreglo3D = Array3D(3,3,2)
-    arreglo3D.to_string()
-    print(f"numero de filas {arreglo3D.get_num_rows()}")
-    print(f"numero de columnas {arreglo3D.get_num_cols()}")
-    print(f"numero de rebanadas {arreglo3D.get_num_rebanadas()}")
-
-    arreglo3D.clearing(1)
-    arreglo3D.to_string()
-    arreglo3D.set_item(0,0,0,5)
-    arreglo3D.to_string()
-main()
-"""
