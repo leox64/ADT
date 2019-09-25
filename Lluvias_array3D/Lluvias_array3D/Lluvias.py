@@ -16,29 +16,3 @@ def main():
 
 
 main()
-'''
-odernamiento:
-es el proceso de cambiar la posicion de un grupo de datos con el objetivo de obtenerlos en un orden
-ascendente o descendente. Los datos puden ser simples como int float, o tipos complejos como un ADT.
-
-
-En programacion el ordenamiento es uno de los temas mas estudiados en ciencias de la computacion, 
-dando como rsultado diferentes algortimos de ordenamiento:
-
-1. Metetodo de la burbuja
-Consta en iterar multiples veces sobre el arreglo causando que el elemntos mas grande (pesado) vaya
-al fondo o al final del arreglo, alfinal de cada iteracion, provocando que los elemntos menores, 
-(ligeros) se muevan al principio del arreglo (flotar).
-
-Ejemplo:
-
-8,5,9,3          5 8 3 9
-                 
-
-5 8 9 3
-
-5 8 9 3
-
-5 8 3 9 
-
-'''
